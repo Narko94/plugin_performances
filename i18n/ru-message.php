@@ -1,0 +1,4 @@
+<?php
+return [
+	'Performances' => 'Спектакли'
+];
